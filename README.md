@@ -19,3 +19,8 @@ Thank you for your understanding.
 Good coding
 
 
+https://devpost.com/software/coder-puzzle
+
+web release: https://coder-puzzle-a0537.web.app/ 
+android release: https://coder-puzzle-a0537.web.app/myFistPuzzle.apk
+
